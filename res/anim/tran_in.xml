@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="500"
+    android:fromXDelta="100%p"
+    android:toXDelta="0"
+    android:fromYDelta="0"
+    android:toYDelta="0" >
+   
+    <!-- 
+    <translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="500" 持续500毫秒
+    android:fromXDelta="100%p"  x轴，来自点击活动相对位置100&处
+    android:toXDelta="0"  x轴，到现在位置地点
+    android:fromYDelta="0" y轴不移动
+    android:toYDelta="0"   y轴不移动>
+    
+     -->
+
+</translate>
